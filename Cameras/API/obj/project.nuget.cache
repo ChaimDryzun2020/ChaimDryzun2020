@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0gaEuXDk2xOdSbbh8ukZeFTsSF8gmWmSXI36W9bLrJXfWAloWfSwtrjh+9EspMB5+/dsHLlZTOme+UUJ5uec/A==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\SkillReal\\pointar-research-api\\Cameras\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chaimd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\bin\Release\netcoreapp3.1\API.exe
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\bin\Release\netcoreapp3.1\API.deps.json
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\bin\Release\netcoreapp3.1\API.runtimeconfig.json
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\bin\Release\netcoreapp3.1\API.runtimeconfig.dev.json
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\bin\Release\netcoreapp3.1\API.dll
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\bin\Release\netcoreapp3.1\API.pdb
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\obj\Release\netcoreapp3.1\API.csprojAssemblyReference.cache
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\obj\Release\netcoreapp3.1\API.AssemblyInfoInputs.cache
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\obj\Release\netcoreapp3.1\API.AssemblyInfo.cs
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\obj\Release\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\obj\Release\netcoreapp3.1\API.dll
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\obj\Release\netcoreapp3.1\API.pdb
+D:\Dev\SkillReal\pointar-research-api\Cameras\API\obj\Release\netcoreapp3.1\API.genruntimeconfig.cache
